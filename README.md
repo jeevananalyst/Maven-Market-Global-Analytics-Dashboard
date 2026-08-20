@@ -117,28 +117,6 @@ The project demonstrates the use of DAX for:
 * Time-based analysis
 * Performance comparisons
 
-Example:
-
-```DAX
-Total Sales =
-SUM(Sales[Sales Amount])
-```
-
-Example:
-
-```DAX
-Profit Margin =
-DIVIDE(
-    [Total Profit],
-    [Total Sales],
-    0
-)
-```
-
-> Replace the example formulas above with the exact measure names from your Power BI model if you want the README to document your implementation precisely.
-
----
-
 # 📈 Dashboard Analysis
 
 ## 1. 🏢 Executive Performance
@@ -291,23 +269,6 @@ The dashboard is designed to help answer questions such as:
 
 # 📸 Dashboard Preview
 
-## Executive Dashboard
-
-![Executive Dashboard](screenshots/executive-dashboard.png)
-
-## Product Analysis
-
-![Product Analysis](screenshots/product-analysis.png)
-
-## Customer Analysis
-
-![Customer Analysis](screenshots/customer-analysis.png)
-
-## Geographic / Store Analysis
-
-![Geographic Analysis](screenshots/geographic-analysis.png)
-
-> 📌 Add your actual Power BI screenshots to the `screenshots` folder using the filenames above.
 
 ---
 
