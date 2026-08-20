@@ -288,7 +288,7 @@ The demo can cover:
 7. Interactive filters
 8. Drill-down functionality
 
-**Demo:** `demo/maven-market-dashboard-demo.mp4`
+**Demo:** https://github.com/jeevananalyst/Maven-Market-Global-Analytics-Dashboard/blob/main/Demo_Video/Screen%20Recording%202026-08-19%20141436.mp4
 
 ---
 
