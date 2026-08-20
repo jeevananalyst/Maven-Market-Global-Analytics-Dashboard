@@ -269,6 +269,7 @@ The dashboard is designed to help answer questions such as:
 
 # 📸 Dashboard Preview
 
+https://github.com/jeevananalyst/Maven-Market-Global-Analytics-Dashboard/blob/main/Screenshots/Topline_Performance.png
 
 ---
 
@@ -382,23 +383,3 @@ Potential future enhancements include:
 * Real-time data integration
 * Advanced customer lifetime value analysis
 * Automated business reporting
-
----
-
-# 👨‍💻 Author
-
-## Jeevan T R
-
-**Data Analyst | SQL | Python | Power BI | Excel**
-
-📍 Bengaluru, Karnataka, India
-
-🔗 **LinkedIn:** [Add your LinkedIn URL]
-
-🔗 **GitHub:** [Add your GitHub URL]
-
----
-
-# ⭐ Project
-
-If you found this project useful, feel free to ⭐ the repository.
